@@ -1,0 +1,2 @@
+# GeniFish.github.io
+myblog
